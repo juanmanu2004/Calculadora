@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <div className="calculator">
-      <h1>Calculadora¡¡</h1>
+      <h1>¡Calculadora¡</h1>
       <div className="display">{input || "0"}</div>
       <div className="buttons">
         {[
